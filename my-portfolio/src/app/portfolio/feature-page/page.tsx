@@ -90,7 +90,7 @@ export default function ProjectPage() {
   const projects = [
     {
       imageSrc:
-        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738171789/images/pko2uuq6xe34ahppptbq.webp",
+        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738602223/image/hjqo1u1b64kyblfsqe1w.svg",
       altText: "Profile picture of Zana Teeraboh",
       title: "E-commerce web application",
       href: "https://www.behance.net/gallery/216560607/Quickshop-E-com-platform",
@@ -98,7 +98,7 @@ export default function ProjectPage() {
     },
     {
       imageSrc:
-        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738008479/images/jr9dnlrci2omc4rpx1to.webp",
+        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738602349/image/jwpga5htyhhroglmtssp.webp",
       altText: "Profile picture of Zana Teeraboh",
       title: "Split-Ease mobile application",
       href: "https://www.behance.net/gallery/216698545/Split-Ease?share=1",
@@ -159,7 +159,7 @@ export default function ProjectPage() {
         <Link
           href="/portfolio/projectPage"
           rel="preload"
-          className="underline underline-offset-2 text-sm font-medium text-textcolor text-center cursor-pointer transition-transform transform hover:scale-90 hover:text-textnorm mt-10 lg:hidden"
+          className="underline underline-offset-2 text-sm font-medium text-textcolor text-center cursor-pointer transition-transform transform hover:scale-x-110 hover:text-textnorm mt-10 lg:hidden"
         >
           VIEW ALL PROJECTS
         </Link>

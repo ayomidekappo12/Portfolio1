@@ -24,7 +24,7 @@ export default function NavMenu() {
           <Sheet>
             <SheetTrigger asChild>
               <Image
-                src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738172686/images/rwcdry0hgnqy7r5guiqm.svg"
+                src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738602534/image/bm3icdxwpjz12pgv6dro.svg"
                 alt="menu"
                 width={24}
                 height={24}
