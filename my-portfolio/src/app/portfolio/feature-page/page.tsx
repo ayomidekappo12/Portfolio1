@@ -33,8 +33,7 @@ const ProjectCard = ({
         <Image
           src={imageSrc}
           alt={altText}
-          width={1348}
-          height={603}
+          layout="fill"
           objectFit="cover"
           className="brightness-100 rounded-xl outline outline-textnorm outline-2 transition-transform transform hover:scale-110"
           quality={90}

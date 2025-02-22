@@ -51,9 +51,7 @@ export default function AboutPage() {
                   Well-versed in implementing the latest web technologies to
                   drive user satisfaction. Excels in HTML, CSS, JavaScript,
                   next.js, and React.js development. Detail-oriented, organized,
-                  and meticulous employee. Works at a fast pace to meet tight
-                  deadlines. Enthusiastic team player ready to contribute to
-                  company success.
+                  and meticulous employee.
                 </p>
                 <p className="text-center text-base font-normal text-textnorm italic py-1 pt-2 text-balance lg:text-start lg:text-xl">
                   I&apos;m expanding my skill set as a student of Software

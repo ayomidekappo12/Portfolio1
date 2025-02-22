@@ -164,7 +164,7 @@ So, the next time someone asks me why I spend time playing Call of Duty, I'll te
                 src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1740222578/image/lnogpypos2st2v0owc0u.png"
                 alt="Profile picture of Zana Teeraboh"
                 width={275}
-                height={358}
+                height={350}
                 className="brightness-100 hidden lg:flex lg:mt-8 lg:justify-center lg:items-center lg:ml-3"
                 quality={90}
                 priority
@@ -192,9 +192,7 @@ So, the next time someone asks me why I spend time playing Call of Duty, I'll te
                       <br />
                       Excels in HTML,CSS, JavaScript, next.js, and React.js
                       development. Detail-oriented, organized, and meticulous
-                      employee. Works at a fast pace to meet tight deadlines.
-                      Enthusiastic team player ready to contribute to company
-                      success.
+                      employee.
                     </p>
                     <p className="text-center text-sm font-normal text-textnorm italic pt-2 text-pretty lg:text-start lg:text-lg">
                       I&apos;m excited to bring my skills and experience to the
