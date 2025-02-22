@@ -7,27 +7,27 @@ const Footer = () => {
   const socialLinks = [
     {
       href: "https://www.instagram.com/teerabohuix?igsh=cHM4Ym9xOTMzYjdt&utm_source=qr",
-      src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738172140/images/wxe71gxub7tihdrxez5q.svg",
+      src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738995698/Frame_7_viltaj.svg",
       alt: "Instagram logo",
     },
     {
-      href: "https://dribbble.com/teeraboh",
-      src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738172139/images/rmaxmonbutfym0e0i2cr.svg",
+      href: "https://dribbble.com/Olufemik12",
+      src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738995698/Frame_8_l0gbpp.svg",
       alt: "Dribbble logo",
     },
     {
-      href: "https://www.behance.net/fidelisteeraboh",
-      src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738172139/images/gs5kpyskqrub5nvhemob.svg",
-      alt: "Behance logo",
+      href: "https://x.com/ayomidekappo34",
+      src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1739997758/image/mwylgkytcezmn7ruuyy9.svg",
+      alt: "Twitter logo",
     },
     {
-      href: "https://www.linkedin.com/in/teeraboh-z-7b5922141?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-      src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738172139/images/gq4h4tqjynefikned9qz.svg",
+      href: "https://www.linkedin.com/in/ayomide-kappo/",
+      src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738995698/Frame_10_fovb1i.svg",
       alt: "LinkedIn logo",
     },
     {
-      href: "https://github.com/teeraboh",
-      src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738172139/images/oh4bpfgn0xgqalkwz0bx.svg",
+      href: "https://github.com/ayomidekappo12",
+      src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738995698/Frame_11_figuhx.svg",
       alt: "GitHub logo",
     },
   ];
@@ -36,6 +36,11 @@ const Footer = () => {
     <footer className="w-full bg-bgbody py-6">
       <div className="xl:mx-auto max-w-screen-xl px-4 lg:px-20">
         <div className="md:flex md:justify-between items-center">
+          <div className="hidden md:flex text-center md:text-left">
+            <p className="font-medium text-textnorm text-base">
+              © 2025 Ayomide Design. All rights reserved.
+            </p>
+          </div>
           <div className="flex justify-center md:justify-start space-x-2 mb-4 md:mb-0">
             {socialLinks.map(({ href, src, alt }) => (
               <a
@@ -56,10 +61,9 @@ const Footer = () => {
               </a>
             ))}
           </div>
-
-          <div className="text-center md:text-left">
+          <div className="md:hidden text-center md:text-left">
             <p className="font-medium text-textnorm text-base">
-              © 2025 Teerabohuix Design. All rights reserved.
+              © 2025 Ayomide Design. All rights reserved.
             </p>
           </div>
         </div>

@@ -29,13 +29,14 @@ const ProjectCard = ({
 }: ProjectProps) => (
   <div className="flex flex-col py-1 md:mx-10 lg:space-x-0">
     <div className="flex flex-col w-full items-center justify-center pt-6">
-      <div className="relative w-[347px] h-[214px]">
+      <div className="relative w-[380px] h-[185px]">
         <Image
           src={imageSrc}
           alt={altText}
-          layout="fill"
+          width={1348}
+          height={603}
           objectFit="cover"
-          className="brightness-100 rounded-lg"
+          className="brightness-100 rounded-xl outline outline-textnorm outline-2 transition-transform transform hover:scale-110"
           quality={90}
           priority
         />
@@ -90,19 +91,19 @@ export default function ProjectPage() {
   const projects = [
     {
       imageSrc:
-        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738602223/image/hjqo1u1b64kyblfsqe1w.svg",
-      altText: "Profile picture of Zana Teeraboh",
-      title: "E-commerce web application",
-      href: "https://www.behance.net/gallery/216560607/Quickshop-E-com-platform",
-      description: `Crafting seamless experience and designing products that scale. A software engineering student by day, a creative thinker and innovative designer by night.`,
+        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1739981788/image/ey3out3hspw2lgc0qeqm.png",
+      altText: "Profile picture of Ayomide Kappo",
+      title: "Career Growth Tools for Job Seekers",
+      href: "https://www.workunlock.com/",
+      description: `WorkUnlock is a platform that offers tools for job seekers to support their career growth and advancement. It features a user-friendly interface focused on interview preparation guides and LinkedIn optimization.`,
     },
     {
       imageSrc:
-        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738602349/image/jwpga5htyhhroglmtssp.webp",
-      altText: "Profile picture of Zana Teeraboh",
-      title: "Split-Ease mobile application",
-      href: "https://www.behance.net/gallery/216698545/Split-Ease?share=1",
-      description: `The Splitease expense-sharing application provides users with a seamless and user-friendly platform for splitting bills and managing shared expenses and more.`,
+        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1739981788/image/tjpnqlytt8dqsbjjzn1j.png",
+      altText: "Profile picture of Ayomide Kappo",
+      title: "Health-Care mobile application",
+      href: "https://health-care.ayomidekappo.me/",
+      description: `The HealthCare Management application is designed to provide patients, families, and healthcare providers with a seamless and user-friendly platform for tracking lab and test results, run test, and diagnosis.`,
     },
   ];
 
@@ -114,7 +115,7 @@ export default function ProjectPage() {
             FEATURED PROJECT
           </h1>
           <Link
-            href="/portfolio/projectPage"
+            href="/portfolio/project-page"
             rel="preload"
             className="hidden lg:flex gap-2 cursor-pointer"
           >
@@ -157,7 +158,7 @@ export default function ProjectPage() {
           </Carousel>
         </div>
         <Link
-          href="/portfolio/projectPage"
+          href="/portfolio/project-page"
           rel="preload"
           className="underline underline-offset-2 text-sm font-medium text-textcolor text-center cursor-pointer transition-transform transform hover:scale-x-110 hover:text-textnorm mt-10 lg:hidden"
         >

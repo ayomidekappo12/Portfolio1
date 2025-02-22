@@ -5,11 +5,12 @@ import { Button } from "@/components/ui/button";
 
 interface ProjectProps {
   videoSrc: string;
+  href: string;
   title: string;
   description: string;
 }
 
-const ProjectCard = ({ videoSrc, title, description }: ProjectProps) => (
+const ProjectCard = ({ videoSrc, title, description, href }: ProjectProps) => (
   <div className="flex flex-col items-center justify-center w-full h-fit mt-6 lg:rounded-lg lg:p-4 bg-custom-gradient">
     <div className="flex flex-col items-center justify-center lg:items-start lg:justify-start lg:grid grid-cols-3 lg:space-x-0 lg:gap-12">
       <div className="flex flex-col items-center justify-center lg:col-span-2 lg:items-start lg:justify-start">
@@ -42,7 +43,7 @@ const ProjectCard = ({ videoSrc, title, description }: ProjectProps) => (
       />
     </div>
     <a
-      href="https://www.behance.net/gallery/216560607/Quickshop-E-com-platform"
+      href={href}
       rel="noopener noreferrer"
       target="_blank"
       className="flex flex-col mt-4 lg:pr-[42rem] lg:h-fit lg:items-start"
@@ -78,22 +79,24 @@ export default function ProjectPage() {
   const projects = [
     {
       videoSrc:
-        "https://res.cloudinary.com/dxvf9uqwe/video/upload/v1737760397/videos/agtnu2tj8wizdd6vustn.mp4",
-      title: "Quick-Shop E-commerce web and mobile application",
+        "https://res.cloudinary.com/dxvf9uqwe/video/upload/v1739978527/videos/qx7zrfax1l5wpxv18wgf.mp4",
+      title: "Platform That Provides Career Growth Tools for Job Seekers",
       description:
-        "Crafting seamless experience and designing products that scale. A software engineering student by day, a creative thinker and innovative designer by night.",
+        "WorkUnlock is a platform that offers tools for job seekers to support their career growth and advancement. It features a user-friendly interface focused on interview preparation guides and LinkedIn optimization.",
+      href: "https://www.workunlock.com/",
     },
     {
       videoSrc:
-        "https://res.cloudinary.com/dxvf9uqwe/video/upload/v1737760400/videos/i3mzlmqvlhrfoi7v977i.mp4",
-      title: "Split-Ease mobile application",
+        "https://res.cloudinary.com/dxvf9uqwe/video/upload/v1739978528/videos/nivolekqunjt3wleo3m5.mp4",
+      title: "Health-Care web application",
       description:
-        "The Splitease expense-sharing application, aiming to provide users with a seamless and user-friendly platform for splitting bills and managing shared expenses.",
+        "The HealthCare Management application is designed to provide patients, families, and healthcare providers with a seamless and user-friendly platform for tracking lab and test results, run test, and diagnosis.",
+      href: "https://health-care.ayomidekappo.me/",
     },
   ];
 
   return (
-    <section className="flex flex-col w-full justify-between bg-bg-custom-gradient overflow-hidden px-6">
+    <section className="flex flex-col w-full min-h-screen justify-between bg-bg-custom-gradient overflow-hidden px-6">
       <div className="flex flex-col w-full items-center justify-center py-6 lg:items-start lg:w-full lg:py-10 lg:px-28">
         <h1 className="text-2xl font-medium text-textcolor text-center lg:items-start lg:text-4xl">
           PROJECT

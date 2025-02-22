@@ -14,7 +14,7 @@ export default function AboutPage() {
               ABOUT
             </h1>
             <Image
-              src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738602215/image/tsfcu2izu5ikfymxu0ul.svg"
+              src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1740140918/image/elkyeynh4j8esq3fuw7t.png"
               alt="Profile picture of Zana Teeraboh"
               width={205}
               height={287}
@@ -23,7 +23,7 @@ export default function AboutPage() {
               priority
             />
             <Image
-              src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738602217/image/lvpz1ums7s1xqnm7en1w.svg"
+              src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1740222578/image/lnogpypos2st2v0owc0u.png"
               alt="Profile picture of Zana Teeraboh"
               width={275}
               height={358}
@@ -44,16 +44,20 @@ export default function AboutPage() {
                 priority
               />
               <div className="flex flex-col py-2 lg:pt-10">
-                <p className="text-base font-normal text-textnorm italic text-center py-1 text-pretty lg:text-start lg:text-xl">
-                  Hello, I&apos;m Zana Teeraboh, a passionate and detail-driven
-                  product designer with 3 years of experience in crafting
-                  intuitive and user-friendly experiences. Currently, I&apos;m
-                  expanding my skill set as a student of Software Engineering at
-                  Miva Open University.
+                <p className="text-base font-normal text-textnorm italic text-center py-1 text-balance lg:text-start lg:text-xl">
+                  Hello, I&apos;m Ayomide Kappo. An experienced Web developer
+                  who is passionate about creating attractive and interactive
+                  websites that meet customer needs and exceed expectations.
+                  Well-versed in implementing the latest web technologies to
+                  drive user satisfaction. Excels in HTML, CSS, JavaScript,
+                  next.js, and React.js development. Detail-oriented, organized,
+                  and meticulous employee. Works at a fast pace to meet tight
+                  deadlines. Enthusiastic team player ready to contribute to
+                  company success.
                 </p>
-                <p className="text-center text-base font-normal text-textnorm italic py-1 pt-2 text-pretty lg:text-start lg:text-xl">
-                  I&apos;m excited to bring my skills and experience to the
-                  table, and I&apos;m looking forward to connecting with you!
+                <p className="text-center text-base font-normal text-textnorm italic py-1 pt-2 text-balance lg:text-start lg:text-xl">
+                  I&apos;m expanding my skill set as a student of Software
+                  Engineering at Miva Open University.
                 </p>
               </div>
             </div>

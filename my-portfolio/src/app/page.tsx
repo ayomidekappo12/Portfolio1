@@ -36,7 +36,7 @@ export default function Home() {
   const [loading] = useState(false);
 
   return (
-    <main className="flex flex-col w-full justify-between bg-custom-gradient space-y-1 overflow-hidden mb-2">
+    <main className="flex flex-col w-full min-h-screen justify-between bg-custom-gradient space-y-1 overflow-hidden mb-2">
       <section className="flex flex-col space-y-2 pt-4 items-center justify-center">
         <div className="flex justify-center items-center">
           <h1 className="font-semibold lg:font-medium text-center text-2xl text-textcolor whitespace-nowrap lg:text-[9rem] lg:leading-relaxed lg:text-wrap">
@@ -46,15 +46,17 @@ export default function Home() {
         <div className="flex flex-col w-full items-center justify-center lg:flex-row lg:justify-between lg:px-10 lg:-mt-52 lg:relative">
           <div className="mb-4 lg:mb-28 lg:relative lg:w-[22rem] lg:h-[15.938rem]">
             <p className="text-center text-base font-medium text-textmed text-pretty italic lg:text-start lg:text-3xl">
-              Hey, I&apos;m Zana Teeraboh, a passionate
-              <br /> UI/UX designer. Dedicated to creating
-              <br /> intuitive and engaging user experiences.
+              Hey, I&apos;m Ayomide Kappo, a passionate
+              <br />
+              Software/Front-end Engineer. Dedicated
+              <br />
+              to creating an engaging UI interface.
             </p>
           </div>
 
           <div className="flex h-fit lg:absolute lg:left-1/2 lg:transform lg:-translate-x-1/2 lg:pt-8">
             <Image
-              src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738602217/image/eyonlgq26kgkqhjasmbd.svg"
+              src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1740222578/image/lnogpypos2st2v0owc0u.png"
               alt="logo"
               width={306}
               height={410}
@@ -63,7 +65,7 @@ export default function Home() {
               priority
             />
             <Image
-              src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738602217/image/f7awqphmdytjozdhmbcm.svg"
+              src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1740222578/image/lnogpypos2st2v0owc0u.png"
               alt="logo"
               width={592}
               height={794}
@@ -75,10 +77,13 @@ export default function Home() {
 
           <div className="lg:mb-32 lg:w-[24rem] lg:h-[14rem]">
             <p className="text-center text-sm font-normal text-textnorm italic text-pretty py-1 lg:text-right lg:text-2xl">
-              Crafting seamless experience and designing
-              <br /> products that scale. Software engineering student
-              <br /> by day at miva open university, creative thinker
-              <br /> and innovating designer by night
+              Crafting seamless web and mobile responsive
+              <br />
+              UI interface and experiences for users.
+              <br />
+              And a Software engineering
+              <br />
+              student at miva open university.
             </p>
           </div>
         </div>
@@ -89,7 +94,7 @@ export default function Home() {
       <section className="flex flex-col w-full items-center justify-center space-y-2 bg-bgbutton/70 lg:flex-row lg:py-12 lg:mx-8 z-10">
         <div className="grid grid-cols-2 gap-0 mx-0">
           <a
-            href="https://docs.google.com/document/d/1PxbPgSDaQ70SNYaiBZcfmjWkY1w7Om2gV6T1hky9EJo/edit"
+            href="https://docs.google.com/document/d/1t7rueaT3KYHzsTB22sgZgaaxBJJo2aml1xQk7n_L4Rg/edit?usp=sharing"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -104,7 +109,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://doodle.com/bp/fidelisteeraboh/schedule-a-call-with-teeraboh"
+            href="https://doodle.com/bp/ayomidekappo/schedule-a-call-with-ayomide"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -155,31 +160,31 @@ export default function Home() {
               Chat with me via
             </h1>
             <p className="text-center text-xs font-normal text-textnorm py-1.5 mx-6 px-12">
-              Any of the channels below so we can speak freely on Mon-Fri from
+              Any of the channels below so we can speak freely on Mon-sat from
               8am to 5pm.
             </p>
             <div className="flex flex-col items-start gap-4 px-8 py-2 my-6">
               <ContactLink
-                href="mailto:teeraboh@gmail.com"
-                src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738171575/images/y6kpf9uv7dkfr9ofpiev.svg"
+                href="mailto:ayomidekappo12@gmail.com"
+                src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1739981023/image/j8lxbbhgitlbjlsmxmrc.svg"
                 alt="Email Icon"
                 text="Shoot me a mail"
               />
               <ContactLink
-                href="https://x.com/fideliszana?s=21"
-                src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738171575/images/ee2d9efxv3batnuvoegu.svg"
+                href="https://x.com/ayomidekappo34"
+                src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1739981023/image/lzxktedndsqkws4qfojo.svg"
                 alt="Twitter Icon"
                 text="Follow me on X"
               />
               <ContactLink
                 href="https://www.instagram.com/teerabohuix?igsh=cHM4Ym9xOTMzYjdt&utm_source=qr"
-                src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738171575/images/apu5glqobhmjq51gjtza.svg"
+                src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1739981023/image/qkgxruhsyvm4i7mfeqae.svg"
                 alt="Instagram Icon"
                 text="Follow me on IG"
               />
             </div>
             <a
-              href="mailto:teeraboh@gmail.com"
+              href="mailto:ayomidekappo12@gmail.com"
               rel="preload"
               className="flex w-full px-10 md:px-14 lg:px-0"
             >
