@@ -74,7 +74,7 @@ export default function AboutPage() {
 
 To step out of my comfort zone and gain practical experience, I’ve taken a bold step by joining Workunlock, founded by the innovative Jayson Kile, a software engineer I greatly admire. This platform has given me the opportunity to collaborate with him, working on a live project and building production-ready applications.
 
-My 10-month journey with him on Workunlock has been transformative, strengthening my confidence in my technical abilities. I'm proud to say that I'm not just a coder – I'm a problem-solver and a team player, ready to tackle real-world challenges. I’ll be showcasing the front-end projects I built during my time with im soon, so stay tuned!
+My 10-month journey with him on Workunlock has been transformative, strengthening my confidence in my technical abilities. I'm proud to say that I'm not just a coder – I'm a problem-solver and a team player, ready to tackle real-world challenges. I’ll be showcasing the front-end projects I built during my time with him soon, so stay tuned!
 
 This experience has not only refined my skills but also deepened my passion for front-end engineering. I'm excited to take the next step in my career, applying my expertise to build scalable, high-performance applications that make a meaningful impact.`,
     },
