@@ -29,14 +29,13 @@ const ProjectCard = ({
 }: ProjectProps) => (
   <div className="flex flex-col py-1 md:mx-10 lg:space-x-0">
     <div className="flex flex-col w-full items-center justify-center pt-6">
-      <div className="relative w-[380px] h-[185px]">
+      <div className="relative w-[347px] h-[214px]">
         <Image
           src={imageSrc}
           alt={altText}
-          width={350}
-          height={603}
+          layout="fill"
           objectFit="cover"
-          className="brightness-100 lg:w-[84rem] mx-auto rounded-xl outline outline-textnorm outline-2 transition-transform transform hover:scale-110"
+          className="brightness-100 rounded-lg"
           quality={90}
           priority
         />
@@ -91,19 +90,27 @@ export default function ProjectPage() {
   const projects = [
     {
       imageSrc:
-        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1739981788/image/ey3out3hspw2lgc0qeqm.png",
-      altText: "Profile picture of Ayomide Kappo",
-      title: "Career Growth Tools for Job Seekers",
-      href: "https://www.workunlock.com/",
-      description: `WorkUnlock is a platform that offers tools for job seekers to support their career growth and advancement. It features a user-friendly interface focused on interview preparation guides and LinkedIn optimization.`,
+        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738602223/image/hjqo1u1b64kyblfsqe1w.svg",
+      altText: "Profile picture of Martins Arowolo",
+      title: "Fintech Mobile application",
+      href: "https://www.behance.net/martinsarowolo",
+      description: `Crafting seamless experience and designing products that scale. A software engineering student by day, a creative thinker and innovative designer by night.`,
     },
     {
       imageSrc:
-        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1739981788/image/tjpnqlytt8dqsbjjzn1j.png",
-      altText: "Profile picture of Ayomide Kappo",
-      title: "Health-Care mobile application",
-      href: "https://health-care.ayomidekappo.me/",
-      description: `The HealthCare Management application is designed to provide patients, families, and healthcare providers with a seamless and user-friendly platform for tracking lab and test results, run test, and diagnosis.`,
+        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738602223/image/hjqo1u1b64kyblfsqe1w.svg",
+      altText: "Profile picture of Martins Arowolo",
+      title: "PedMonie Case application",
+      href: "https://www.behance.net/gallery/220578207/PedMonie-Case-Study",
+      description: `Crafting seamless experience and designing products that scale. A software engineering student by day, a creative thinker and innovative designer by night.`,
+    },
+    {
+      imageSrc:
+        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738602223/image/hjqo1u1b64kyblfsqe1w.svg",
+      altText: "Profile picture of Martins Arowolo",
+      title: "Cloud Based File-Sharing & Storage Platform",
+      href: "https://www.behance.net/gallery/211645499/A-Cloud-Based-File-Sharing-And-Storage-Platform",
+      description: `Crafting seamless experience and designing products that scale. A software engineering student by day, a creative thinker and innovative designer by night.`,
     },
   ];
 
@@ -158,7 +165,7 @@ export default function ProjectPage() {
           </Carousel>
         </div>
         <Link
-          href="/portfolio/project-page"
+          href="/portfolio/projectPage"
           rel="preload"
           className="underline underline-offset-2 text-sm font-medium text-textcolor text-center cursor-pointer transition-transform transform hover:scale-x-110 hover:text-textnorm mt-10 lg:hidden"
         >

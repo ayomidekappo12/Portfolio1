@@ -14,7 +14,7 @@ export default function AboutPage() {
               ABOUT
             </h1>
             <Image
-              src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1740140918/image/elkyeynh4j8esq3fuw7t.png"
+              src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1741514645/image/bjpmddt504qnrmgcozvp.svg"
               alt="Profile picture of Zana Teeraboh"
               width={205}
               height={287}
@@ -23,11 +23,11 @@ export default function AboutPage() {
               priority
             />
             <Image
-              src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1740222578/image/lnogpypos2st2v0owc0u.png"
+              src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1741514645/image/bjpmddt504qnrmgcozvp.svg"
               alt="Profile picture of Zana Teeraboh"
               width={275}
               height={358}
-              className="brightness-100 mt-5 hidden lg:flex"
+              className="brightness-100 mt-5 hidden lg:flex bg-neutral-50"
               quality={90}
               priority
             />
@@ -44,18 +44,17 @@ export default function AboutPage() {
                 priority
               />
               <div className="flex flex-col py-2 lg:pt-10">
-                <p className="text-base font-normal text-textnorm italic text-center py-1 text-balance lg:text-start lg:text-xl">
-                  Hello, I&apos;m Ayomide Kappo. An experienced Web developer
-                  who is passionate about creating attractive and interactive
-                  websites that meet customer needs and exceed expectations.
-                  Well-versed in implementing the latest web technologies to
-                  drive user satisfaction. Excels in HTML, CSS, JavaScript,
-                  next.js, and React.js development. Detail-oriented, organized,
-                  and meticulous employee.
+                <p className="text-base font-normal text-textnorm italic text-center py-1 text-pretty lg:text-start lg:text-xl">
+                  Hello, I&apos;m Martins Arowolo, a passionate and
+                  detail-driven product designer with 3 years of experience in
+                  crafting intuitive and user-friendly experiences. Currently,
+                  I&apos;m expanding my skill set as an Animator and motion
+                  graphics designer in other to blend my product designs come to
+                  live.
                 </p>
-                <p className="text-center text-base font-normal text-textnorm italic py-1 pt-2 text-balance lg:text-start lg:text-xl">
-                  I&apos;m expanding my skill set as a student of Software
-                  Engineering at Miva Open University.
+                <p className="text-center text-base font-normal text-textnorm italic py-1 pt-2 text-pretty lg:text-start lg:text-xl">
+                  I&apos;m excited to bring my skills and experience to the
+                  table, and I&apos;m looking forward to connecting with you!
                 </p>
               </div>
             </div>

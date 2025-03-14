@@ -62,21 +62,19 @@ export default function AboutPage() {
     {
       title: "From Curiosity to Creation",
       description:
-        "It all began with a spark of curiosity. I came across a sleek, responsive web redesign built with React by TassyOmah (Omah) on Twitter, and I was captivated. The way she optimized performance and enhanced the user experience was mesmerizing, and I knew right then that I wanted to dive deeper into Front-End Engineering.",
+        "It all began with a spark of curiosity. I stumbled upon a redesign of the JUMIA App by Martins Arowolo on Twitter, and I was captivated. The way he transformed the user experience was mesmerizing, and I knew right then that I wanted to learn more.",
     },
     {
       title: "The Early Days",
-      description: `As I delved deeper into the world of Front-End, I realized that it wasn't just about making things look pretty – it was about creating experiences that improved people's lives. I was hooked.\n\n I enrolled in the Side-Hustle Internship program in 2021, where I met like-minded individuals who shared my passion for design. Together, we worked on a startup project called Japa-Buddy, and I learned the value of collaboration and creative problem-solving.`,
+      description: `As I delved deeper into the world of design, I realized that it wasn't just about making things look pretty – it was about creating experiences that improved people's lives. I was hooked. I started making research watching videos online, trying to understand the application and it usefulness, how to navigate and use the app to it fullness. Then i enrolled in the Side-Hustle Internship program in 2022, where I met like-minded individuals who shared my passion for design. Together, we worked on a startup project for Fintech, and I learned the value of collaboration and creative problem-solving.`,
+    },
+    {
+      title: "The Journey Continues",
+      description: `In 2024, I joined the Dev and Design Bootcamp, where I developed my skills in design languages and low-code projects. I also created Desigbloc, a design language that showcased my creativity and attention to detail. The same year, I enrolled in Oracle Design School's three-month design program, where I mastered tools like Figma, Figjam, and Miro. I learned the importance of UX research, design processes, and effective communication.`,
     },
     {
       title: "The Future Ahead",
-      description: `As I continue to learn and grow, I'm excited to see where my front-end development skills take me. My short-term goal is to become a skilled Front-End Engineer, mastering modern frameworks and performance optimization. In the long term, I aspire to become a well-rounded Software Engineer, leveraging my UI expertise to build seamless user experiences.
-
-To step out of my comfort zone and gain practical experience, I’ve taken a bold step by joining Workunlock, founded by the innovative Jayson Kile, a software engineer I greatly admire. This platform has given me the opportunity to collaborate with him, working on a live project and building production-ready applications.
-
-My 10-month journey with him on Workunlock has been transformative, strengthening my confidence in my technical abilities. I'm proud to say that I'm not just a coder – I'm a problem-solver and a team player, ready to tackle real-world challenges. I’ll be showcasing the front-end projects I built during my time with him soon, so stay tuned!
-
-This experience has not only refined my skills but also deepened my passion for front-end engineering. I'm excited to take the next step in my career, applying my expertise to build scalable, high-performance applications that make a meaningful impact.`,
+      description: `As I continue to learn and grow, I'm excited to see where my design and coding skills take me. My short-term goal is to become a UX engineer, merging my design expertise with coding skills. In the long term, I aspire to become a software engineer, leveraging my design background to create innovative solutions. To break out of my comfort zone and gain practical experience, I've taken a bold step by enrolling in Internpulse, founded by the innovative John Diginee, a software engineer I greatly admire. This platform has given me the opportunity to collaborate with like-minded individuals in the tech industry, working on live projects and gaining invaluable experience. My 8-week journey with the Internpulse team has been transformative, boosting my confidence in my abilities. I'm proud to say that I'm not just a designer or coder – I'm a collaborative problem-solver, ready to tackle real-world challenges. I'll be showcasing the projects I worked on during my time at Internpulse soon, so stay tuned! This experience has not only honed my skills but also reinforced my passion for the tech industry. I'm excited to take the next step in my career, applying my skills and experience to drive innovation and make a meaningful impact.`,
     },
   ];
 
@@ -84,34 +82,33 @@ This experience has not only refined my skills but also deepened my passion for 
     {
       imageSrc:
         "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738602214/image/svmf0e4uejjniiypu9so.svg",
-      altText: "Movie picture of Ayomide Kappo",
+      altText: "Movie picture of Martins Arowolo",
       title: "MOVIE",
       heading: "ENTERGALACTIC",
       description:
-        "As a front-end engineer, I'm drawn to the seamless, interactive experience of EnterGalactic. The way the visuals fluidly integrate with motion and transitions is pure magic. But what truly resonates with me is its attention to storytelling through design, creating an immersive user experience. The way it blends animation, emotion, and technology to build connection and engagement is truly captivating. For me, EnterGalactic is more than just a film – it's a reminder of the transformative power of UI, animation, and interaction to bring people together and inspire creativity in digital experiences.",
+        "As a designer, I'm drawn to the vibrant, dreamlike quality of EnterGalactic. The way the animation seamlessly blends with the music is pure magic. But what truly resonates with me is the film's exploration of love, connection, and the human experience. The way it weaves together themes of identity, community, and the power of art to transcend boundaries... it's truly captivating. For me, EnterGalactic is more than just a movie – it's a reminder of the transformative power of love, art, and music to bring people together and inspire us to be our best selves",
     },
     {
       imageSrc:
         "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738602214/image/rmxhbj8agwaakfdkmmmn.svg",
-      altText: "Movie picture of Ayomide Kappo",
+      altText: "Movie picture of Martins Arowolo",
       title: "MOVIE",
       heading: "3 IDIOTS",
       description:
-        "This Bollywood masterpiece never fails to inspire me, challenge my thinking, and remind me of the power of perseverance. As a front-end engineer, I admire the film’s unconventional storytelling and its celebration of creativity, problem-solving, and innovation. But what resonates with me most is its emphasis on passion, continuous learning, and pushing boundaries to create something impactful. The iconic character of Rancho, with his ‘chase excellence, success will follow’ mantra, is a constant reminder to stay committed to writing clean, efficient code, optimizing user experience, and never compromising on quality and innovation.",
+        "This Bollywood masterpiece never fails to make me laugh, cry, and reflect on the true meaning of success. As a designer, I appreciate the film's offbeat approach to storytelling and its celebration of creativity, innovation, and out-of-the-box thinking. But what resonates with me most is the movie's emphasis on the importance of following your heart, pursuing your passions, and staying true to yourself. The iconic character of Rancho, with his 'chase excellence, success will follow' mantra, is a constant reminder to me to stay focused on my goals and never compromise on my values.",
     },
     {
       imageSrc:
-        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738607666/image/thunpcphjr0hxkbntjvo.svg",
-      altText: "Music picture of Ayomide Kappo",
+        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1741295072/image/jtg7sa0tbch39vnq1zry.svg",
+      altText: "Music picture of Martins Arowolo",
       title: "MUSIC",
-      heading: "BURNA BOY",
-      description:
-        "Burna Boy’s Grammy-winning album is more than just a musical masterpiece—it’s a testament to bold innovation and seamless fusion. As a front-end engineer, I find inspiration in how he blends different sounds and styles to create something fresh and groundbreaking. The album’s eclectic mix of rhythms, flows, and storytelling reminds me to embrace new technologies, experiment with UI/UX, and push the limits of web interactivity. Whenever I need a creativity boost, I put on Twice As Tall and let its energy, fluidity, and innovation inspire me to craft dynamic, engaging user experiences.",
+      heading: "50 CENT",
+      description: `Get Rich or Die Tryin'" (2003) by 50 Cent is a landmark album that captures the raw intensity of street life and the pursuit of success against all odds. The album’s artwork, featuring a bullet-ridden glass effect and bold, graffiti-inspired typography, mirrors 50 Cent’s resilience and survival story. Its design embodies the gritty hip-hop aesthetic of the early 2000s, reinforcing his rise from adversity to fame. His powerful storytelling and aggressive flow redefined mainstream rap, revitalizing the genre after 2Pac’s era. The album remains a testament to ambition, perseverance, and the unrelenting drive to succeed against all obstacles.`,
     },
     {
       imageSrc:
         "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738602214/image/akwwhuzrudkouruefwhx.svg",
-      altText: "Book picture of Ayomide Kappo",
+      altText: "Book picture of Martins Arowolo",
       title: "BOOK",
       heading: "REFACTORING UI",
       description:
@@ -120,7 +117,7 @@ This experience has not only refined my skills but also deepened my passion for 
     {
       imageSrc:
         "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738602214/image/kur1xq8pflzo8fld8jli.svg",
-      altText: "Book picture of Ayomide Kappo",
+      altText: "Book picture of Martins Arowolo",
       title: "BOOK",
       heading: "THE DESIGN OF EVERYDAY THINGS",
       description:
@@ -129,16 +126,10 @@ This experience has not only refined my skills but also deepened my passion for 
     {
       imageSrc:
         "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738602217/image/eibreykwxstr6yzg8nku.svg",
-      altText: "Game picture of Ayomide Kappo",
+      altText: "Game picture of Martins Arowolo",
       title: "GAME",
       heading: "CALL ON DUTY",
-      description: `As an avid gamer, I've often found myself defending my love for Call of Duty to those who view gaming as a mere distraction. But the truth is, this fast-paced, action-packed game has been a valuable training ground for my brain. Research has shown that games like Call of Duty can improve cognitive skills such as multitasking, decision-making, and problem-solving.
-
-For me, the game's intense, dynamic environment has honed my ability to stay focused under pressure, think on my feet, and adapt quickly to new situations. It's also heightened my spatial awareness, allowing me to better navigate complex environments and track multiple objects simultaneously.
-
-But beyond the cognitive benefits, I believe gaming has also made me more aware of my surroundings. The game's emphasis on situational awareness, strategy, and teamwork has translated to real-life benefits, such as improved observation skills, enhanced risk assessment, and more effective communication with others.
-
-So, the next time someone asks me why I spend time playing Call of Duty, I'll tell them it's not just about having fun – it's about sharpening my mind, staying focused, and developing skills that benefit me far beyond the gaming world`,
+      description: `As an avid gamer, I've often found myself defending my love for Call of Duty to those who view gaming as a mere distraction. But the truth is, this fast-paced, action-packed game has been a valuable training ground for my brain. Research has shown that games like Call of Duty can improve cognitive skills such as multitasking, decision-making, and problem-solving. For me, the game's intense, dynamic environment has honed my ability to stay focused under pressure, think on my feet, and adapt quickly to new situations. It's also heightened my spatial awareness, allowing me to better navigate complex environments and track multiple objects simultaneously. But beyond the cognitive benefits, I believe gaming has also made me more aware of my surroundings. The game's emphasis on situational awareness, strategy, and teamwork has translated to real-life benefits, such as improved observation skills, enhanced risk assessment, and more effective communication with others. So, the next time someone asks me why I spend time playing Call of Duty, I'll tell them it's not just about having fun – it's about sharpening my mind, staying focused, and developing skills that benefit me far beyond the gaming world`,
     },
   ];
 
@@ -152,8 +143,8 @@ So, the next time someone asks me why I spend time playing Call of Duty, I'll te
                 ABOUT
               </h1>
               <Image
-                src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1740140918/image/elkyeynh4j8esq3fuw7t.png"
-                alt="Profile picture of Zana Teeraboh"
+                src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1741514645/image/bjpmddt504qnrmgcozvp.svg"
+                alt="Profile picture of Martins Arowolo"
                 width={205}
                 height={287}
                 className="brightness-100 mt-5 flex lg:hidden"
@@ -161,8 +152,8 @@ So, the next time someone asks me why I spend time playing Call of Duty, I'll te
                 priority
               />
               <Image
-                src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1740222578/image/lnogpypos2st2v0owc0u.png"
-                alt="Profile picture of Zana Teeraboh"
+                src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1741514645/image/bjpmddt504qnrmgcozvp.svg"
+                alt="Profile picture of Martins Arowolo"
                 width={275}
                 height={350}
                 className="brightness-100 hidden lg:flex lg:mt-8 lg:justify-center lg:items-center lg:ml-3"
@@ -184,15 +175,12 @@ So, the next time someone asks me why I spend time playing Call of Duty, I'll te
                   />
                   <div className="flex flex-col py-1 lg:pt-6">
                     <p className="text-sm font-normal text-textnorm italic text-center text-pretty lg:text-start lg:text-lg">
-                      Hello, I&apos;m Ayomide Kappo. An experienced Web
-                      developer who is passionate about creating attractive and
-                      interactive websites that meet customer needs and exceed
-                      expectations. Well-versed in implementing the latest web
-                      technologies to drive user satisfaction.
-                      <br />
-                      Excels in HTML,CSS, JavaScript, next.js, and React.js
-                      development. Detail-oriented, organized, and meticulous
-                      employee.
+                      Hello, I&apos;m Martins Arowolo, a passionate and
+                      detail-driven product designer with 3 years of experience
+                      in crafting intuitive and user-friendly experiences.
+                      Currently, I&apos;m expanding my skill set as an Animator
+                      and motion graphics designer in other to blend my product
+                      designs come to live.
                     </p>
                     <p className="text-center text-sm font-normal text-textnorm italic pt-2 text-pretty lg:text-start lg:text-lg">
                       I&apos;m excited to bring my skills and experience to the
@@ -208,27 +196,22 @@ So, the next time someone asks me why I spend time playing Call of Duty, I'll te
                 </h1>
                 <div className="flex flex-col items-start space-x-0 gap-2 mx-6 lg:flex-row lg:space-x-4 lg:mx-0">
                   <p className="text-sm font-normal text-textnorm italic text-start pb-2 text-wrap">
-                    A front-end engineer applies user experience (UX) principles
-                    and ensures responsive design and accessibility for seamless
-                    interaction across devices. They utilize component-based
-                    architecture and implement state management and data
-                    fetching to create scalable applications. Performance
-                    optimization techniques and cross-browser compatibility are
-                    essential to delivering fast and consistent experiences.
-                    They employ testing and debugging strategies while
-                    collaborating with designers and backend teams to ensure
-                    smooth integration
+                    User research and analysis User journey mapping Wireframing
+                    and prototyping Interaction design Visual design principles
+                    Usability testing and feedback analysis Design systems and
+                    design thinking Collaboration with cross-functional teams
+                    Familiarity with design tools like Figma, Sketch, Adobe XD
+                    Basic front-end development skills (HTML, CSS, JavaScript)
+                    Adobe Animate After Effects Adobe Photoshop
                   </p>
                   <p className="text-sm font-normal text-textnorm italic text-start pb-2 text-wrap">
-                    Proficiency in React, Next.js, and modern frameworks, along
-                    with expertise in HTML, CSS, JavaScript, and TypeScript,
-                    allows them to build dynamic interfaces. They work with API
-                    integration and RESTful services, enhance UI with web
-                    animations and micro-interactions, and develop Progressive
-                    Web Apps (PWAs) with offline support. Additionally, they
-                    focus on SEO, Core Web Vitals, and understand CI/CD
-                    pipelines and deployment workflows to maintain efficient
-                    development cycles.
+                    Natural Language Processing (NLP) concepts Language model
+                    architecture and training Prompt design and optimization
+                    Text generation and editing Conversational AI and dialogue
+                    systems Understanding of machine learning concepts and
+                    algorithms Knowledge of human-computer interaction and
+                    human-centered design Ability to analyze and improve
+                    language model performance.
                   </p>
                 </div>
               </div>

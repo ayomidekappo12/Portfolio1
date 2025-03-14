@@ -79,19 +79,19 @@ export default function ProjectPage() {
   const projects = [
     {
       videoSrc:
-        "https://res.cloudinary.com/dxvf9uqwe/video/upload/v1739978527/videos/qx7zrfax1l5wpxv18wgf.mp4",
-      title: "Platform That Provides Career Growth Tools for Job Seekers",
+        "https://res.cloudinary.com/dxvf9uqwe/video/upload/v1737760397/videos/agtnu2tj8wizdd6vustn.mp4",
+      title: "Fintech Mobile application",
       description:
-        "WorkUnlock is a platform that offers tools for job seekers to support their career growth and advancement. It features a user-friendly interface focused on interview preparation guides and LinkedIn optimization.",
-      href: "https://www.workunlock.com/",
+        "Crafting seamless experience and designing products that scale. A software engineering student by day, a creative thinker and innovative designer by night.",
+      href: "https://www.behance.net/gallery/216560607/Quickshop-E-com-platform",
     },
     {
       videoSrc:
-        "https://res.cloudinary.com/dxvf9uqwe/video/upload/v1739978528/videos/nivolekqunjt3wleo3m5.mp4",
-      title: "Health-Care web application",
+        "https://res.cloudinary.com/dxvf9uqwe/video/upload/v1737760397/videos/agtnu2tj8wizdd6vustn.mp4",
+      title: "Fintech Mobile application",
       description:
-        "The HealthCare Management application is designed to provide patients, families, and healthcare providers with a seamless and user-friendly platform for tracking lab and test results, run test, and diagnosis.",
-      href: "https://health-care.ayomidekappo.me/",
+        "Crafting seamless experience and designing products that scale. A software engineering student by day, a creative thinker and innovative designer by night.",
+      href: "https://www.behance.net/gallery/216560607/Quickshop-E-com-platform",
     },
   ];
 

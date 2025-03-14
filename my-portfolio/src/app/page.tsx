@@ -46,17 +46,14 @@ export default function Home() {
         <div className="flex flex-col w-full items-center justify-center lg:flex-row lg:justify-between lg:px-10 lg:-mt-52 lg:relative">
           <div className="mb-4 lg:mb-28 lg:relative lg:w-[22rem] lg:h-[15.938rem]">
             <p className="text-center text-base font-medium text-textmed text-pretty italic lg:text-start lg:text-3xl">
-              Hey, I&apos;m Ayomide Kappo, a passionate
+              Hey, I&apos;m Martins Arowolo. A passionate
               <br />
-              Software/Front-end Engineer. Dedicated
-              <br />
-              to creating an engaging UI interface.
+              Junior UI/UX Designer, Animator and a visual Analyst.
             </p>
           </div>
-
           <div className="flex h-fit lg:absolute lg:left-1/2 lg:transform lg:-translate-x-1/2 lg:pt-8">
             <Image
-              src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1740222578/image/lnogpypos2st2v0owc0u.png"
+              src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1741523117/image/bmqzd3suewiy28fssqu1.svg"
               alt="logo"
               width={306}
               height={410}
@@ -65,25 +62,22 @@ export default function Home() {
               priority
             />
             <Image
-              src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1740222578/image/lnogpypos2st2v0owc0u.png"
+              src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1741523117/image/bmqzd3suewiy28fssqu1.svg"
               alt="logo"
-              width={592}
-              height={794}
+              width={550}
+              height={530}
               className="brightness-100 hidden lg:flex z-0"
               quality={100}
               priority
             />
           </div>
-
           <div className="lg:mb-32 lg:w-[24rem] lg:h-[14rem]">
             <p className="text-center text-sm font-normal text-textnorm italic text-pretty py-1 lg:text-right lg:text-2xl">
-              Crafting seamless web and mobile responsive
+              Creating seamless experiences and designing scalable products.
               <br />
-              UI interface and experiences for users.
+              Graduate student by day, creative thinker
               <br />
-              And a Software engineering
-              <br />
-              student at miva open university.
+              and innovative designer by night.
             </p>
           </div>
         </div>
@@ -109,7 +103,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://doodle.com/bp/ayomidekappo/schedule-a-call-with-ayomide"
+            href="https://doodle.com/bp/martinsolatoye/lets-make-your-design-come-to-live"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -165,26 +159,26 @@ export default function Home() {
             </p>
             <div className="flex flex-col items-start gap-4 px-8 py-2 my-6">
               <ContactLink
-                href="mailto:ayomidekappo12@gmail.com"
+                href="mailto:Molatoye19@gmail.com"
                 src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1739981023/image/j8lxbbhgitlbjlsmxmrc.svg"
                 alt="Email Icon"
                 text="Shoot me a mail"
               />
               <ContactLink
-                href="https://x.com/ayomidekappo34"
+                href="https://x.com/T_MartzEnterta"
                 src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1739981023/image/lzxktedndsqkws4qfojo.svg"
                 alt="Twitter Icon"
                 text="Follow me on X"
               />
               <ContactLink
-                href="https://www.instagram.com/teerabohuix?igsh=cHM4Ym9xOTMzYjdt&utm_source=qr"
+                href="https://www.instagram.com/latoi09/"
                 src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1739981023/image/qkgxruhsyvm4i7mfeqae.svg"
                 alt="Instagram Icon"
                 text="Follow me on IG"
               />
             </div>
             <a
-              href="mailto:ayomidekappo12@gmail.com"
+              href="mailto:Molatoye19@gmail.com"
               rel="preload"
               className="flex w-full px-10 md:px-14 lg:px-0"
             >

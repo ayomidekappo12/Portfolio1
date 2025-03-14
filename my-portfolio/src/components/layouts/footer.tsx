@@ -6,29 +6,29 @@ import Image from "next/legacy/image";
 const Footer = () => {
   const socialLinks = [
     {
-      href: "https://www.instagram.com/teerabohuix?igsh=cHM4Ym9xOTMzYjdt&utm_source=qr",
+      href: "https://www.instagram.com/latoi09/",
       src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738995698/Frame_7_viltaj.svg",
       alt: "Instagram logo",
     },
     {
-      href: "https://dribbble.com/Olufemik12",
+      href: "https://dribbble.com/latoi09",
       src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738995698/Frame_8_l0gbpp.svg",
       alt: "Dribbble logo",
     },
     {
-      href: "https://x.com/ayomidekappo34",
-      src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1739997758/image/mwylgkytcezmn7ruuyy9.svg",
-      alt: "Twitter logo",
+      href: "https://www.behance.net/martinsarowolo",
+      src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738995698/Frame_9_ppkj88.svg",
+      alt: "Behance logo",
     },
     {
-      href: "https://www.linkedin.com/in/ayomide-kappo/",
+      href: "https://www.linkedin.com/in/martins-arowolo-79a72b133/",
       src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738995698/Frame_10_fovb1i.svg",
       alt: "LinkedIn logo",
     },
     {
-      href: "https://github.com/ayomidekappo12",
-      src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738995698/Frame_11_figuhx.svg",
-      alt: "GitHub logo",
+      href: "https://x.com/T_MartzEnterta",
+      src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1739997758/image/mwylgkytcezmn7ruuyy9.svg",
+      alt: "Twitter logo",
     },
   ];
 
@@ -38,7 +38,7 @@ const Footer = () => {
         <div className="md:flex md:justify-between items-center">
           <div className="hidden md:flex text-center md:text-left">
             <p className="font-medium text-textnorm text-base">
-              © 2025 Ayomide Design. All rights reserved.
+              © 2025 Tmartzuix design. All right reserved.
             </p>
           </div>
           <div className="flex justify-center md:justify-start space-x-2 mb-4 md:mb-0">
@@ -63,7 +63,7 @@ const Footer = () => {
           </div>
           <div className="md:hidden text-center md:text-left">
             <p className="font-medium text-textnorm text-base">
-              © 2025 Ayomide Design. All rights reserved.
+              © 2025 Tmartzuix design. All right reserved.
             </p>
           </div>
         </div>
