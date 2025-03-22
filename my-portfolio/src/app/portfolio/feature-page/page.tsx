@@ -90,15 +90,7 @@ export default function ProjectPage() {
   const projects = [
     {
       imageSrc:
-        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738602223/image/hjqo1u1b64kyblfsqe1w.svg",
-      altText: "Profile picture of Martins Arowolo",
-      title: "Fintech Mobile application",
-      href: "https://www.behance.net/martinsarowolo",
-      description: `Crafting seamless experience and designing products that scale. A software engineering student by day, a creative thinker and innovative designer by night.`,
-    },
-    {
-      imageSrc:
-        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738602223/image/hjqo1u1b64kyblfsqe1w.svg",
+        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1742671059/image/ihva9xpqr2pj8nc7u9qd.svg",
       altText: "Profile picture of Martins Arowolo",
       title: "PedMonie Case application",
       href: "https://www.behance.net/gallery/220578207/PedMonie-Case-Study",
@@ -106,10 +98,26 @@ export default function ProjectPage() {
     },
     {
       imageSrc:
-        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738602223/image/hjqo1u1b64kyblfsqe1w.svg",
+        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1742671059/image/rl7khednisxvqrajstjr.svg",
       altText: "Profile picture of Martins Arowolo",
       title: "Cloud Based File-Sharing & Storage Platform",
       href: "https://www.behance.net/gallery/211645499/A-Cloud-Based-File-Sharing-And-Storage-Platform",
+      description: `Crafting seamless experience and designing products that scale. A software engineering student by day, a creative thinker and innovative designer by night.`,
+    },
+    {
+      imageSrc:
+        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1742671874/image/gosf7qeibqvivoopmnro.svg",
+      altText: "Profile picture of Martins Arowolo",
+      title: "Dashboard",
+      href: "https://www.behance.net/gallery/211645499/A-Cloud-Based-File-Sharing-And-Storage-Platform",
+      description: `Crafting seamless experience and designing products that scale. A software engineering student by day, a creative thinker and innovative designer by night.`,
+    },
+    {
+      imageSrc:
+        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738602223/image/hjqo1u1b64kyblfsqe1w.svg",
+      altText: "Profile picture of Martins Arowolo",
+      title: "Fintech Mobile application",
+      href: "https://www.behance.net/martinsarowolo",
       description: `Crafting seamless experience and designing products that scale. A software engineering student by day, a creative thinker and innovative designer by night.`,
     },
   ];
