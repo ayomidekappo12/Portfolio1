@@ -88,7 +88,7 @@ export default function Home() {
       <section className="flex flex-col w-full items-center justify-center space-y-2 bg-bgbutton/70 lg:flex-row lg:py-12 lg:mx-8 z-10">
         <div className="grid grid-cols-2 gap-0 mx-0">
           <a
-            href="https://docs.google.com/document/d/1t7rueaT3KYHzsTB22sgZgaaxBJJo2aml1xQk7n_L4Rg/edit?usp=sharing"
+            href="https://docs.google.com/document/d/1t7rueaT3KYHzsTB22sgZgaaxBJJo2aml1xQk7n_L4Rg/edit?tab=t.0"
             rel="noopener noreferrer"
             target="_blank"
           >

@@ -94,7 +94,7 @@ export default function ProjectPage() {
       altText: "Profile picture of Martins Arowolo",
       title: "PedMonie Case application",
       href: "https://www.behance.net/gallery/220578207/PedMonie-Case-Study",
-      description: `Crafting seamless experience and designing products that scale. A software engineering student by day, a creative thinker and innovative designer by night.`,
+      description: `This platform enables real-time transaction management with approval workflows, dispute resolution, and a data-driven merchant dashboard. Its stability and user-friendly interface make it ideal for businesses.`,
     },
     {
       imageSrc:
@@ -102,14 +102,14 @@ export default function ProjectPage() {
       altText: "Profile picture of Martins Arowolo",
       title: "Cloud Based File-Sharing & Storage Platform",
       href: "https://www.behance.net/gallery/211645499/A-Cloud-Based-File-Sharing-And-Storage-Platform",
-      description: `Crafting seamless experience and designing products that scale. A software engineering student by day, a creative thinker and innovative designer by night.`,
+      description: `Crafting seamless experience and designing product that scale. A user-friendly and secure cloud file storage and sharing platform that helps users store, manage, collaborate, and share files seamlessly across devices.`,
     },
     {
       imageSrc:
         "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1742671874/image/gosf7qeibqvivoopmnro.svg",
       altText: "Profile picture of Martins Arowolo",
       title: "Dashboard",
-      href: "https://www.behance.net/gallery/211645499/A-Cloud-Based-File-Sharing-And-Storage-Platform",
+      href: "https://www.behance.net/gallery/222244143/Dashboard?",
       description: `Crafting seamless experience and designing products that scale. A software engineering student by day, a creative thinker and innovative designer by night.`,
     },
     {

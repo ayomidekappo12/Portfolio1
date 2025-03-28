@@ -79,11 +79,27 @@ export default function ProjectPage() {
   const projects = [
     {
       videoSrc:
-        "https://res.cloudinary.com/dxvf9uqwe/video/upload/v1737760397/videos/agtnu2tj8wizdd6vustn.mp4",
-      title: "Fintech Mobile application",
+        "https://res.cloudinary.com/dxvf9uqwe/video/upload/v1742797297/image/n7lesepdpoqrx2p8ggvh.mp4",
+      title: "PedMonie Case application",
+      description:
+        "This is a real-time transaction management, including approval workflows, dispute resolution, and a dynamic Merchant dashboard for data- driven insights, the platform stability and user friendly interface makes it an ideal choice for business.",
+      href: "https://www.behance.net/gallery/220578207/PedMonie-Case-Study",
+    },
+    {
+      videoSrc:
+        "https://res.cloudinary.com/dxvf9uqwe/video/upload/v1742797277/image/l9xbpirov4kmmewgmdkb.mp4",
+      title: "Cloud Based File-Sharing & Storage Platform",
+      description:
+        "Crafting seamless experience and designing product that scale. A user-friendly and secure cloud file storage and sharing platform that helps users store, manage, collaborate, and share files seamlessly across devices.",
+      href: "https://www.behance.net/gallery/211645499/A-Cloud-Based-File-Sharing-And-Storage-Platform",
+    },
+    {
+      videoSrc:
+        "https://res.cloudinary.com/dxvf9uqwe/video/upload/v1742970087/image/givi65xvymhlu8ympcp6.mp4",
+      title: "Dashboard",
       description:
         "Crafting seamless experience and designing products that scale. A software engineering student by day, a creative thinker and innovative designer by night.",
-      href: "https://www.behance.net/gallery/216560607/Quickshop-E-com-platform",
+      href: "https://www.behance.net/gallery/222244143/Dashboard?",
     },
     {
       videoSrc:
