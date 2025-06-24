@@ -39,7 +39,6 @@ const ProjectCard = ({ videoSrc, title, description, href }: ProjectProps) => (
         src={videoSrc}
         controls
         preload="auto"
-        loading="lazy"
         aria-label={`${title} Video demo`}
         className="w-full lg:w-10/12 h-auto rounded-lg"
       />
