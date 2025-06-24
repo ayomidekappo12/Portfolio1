@@ -153,7 +153,7 @@ So, the next time someone asks me why I spend time playing Call of Duty, I'll te
               </h1>
               <Image
                 src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1740140918/image/elkyeynh4j8esq3fuw7t.png"
-                alt="Profile picture of Zana Teeraboh"
+                alt="Profile picture of Ayomide Kappo"
                 width={205}
                 height={287}
                 className="brightness-100 mt-5 flex lg:hidden"
@@ -162,7 +162,7 @@ So, the next time someone asks me why I spend time playing Call of Duty, I'll te
               />
               <Image
                 src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1740222578/image/lnogpypos2st2v0owc0u.png"
-                alt="Profile picture of Zana Teeraboh"
+                alt="Profile picture of Ayomide Kappo"
                 width={275}
                 height={350}
                 className="brightness-100 hidden lg:flex lg:mt-8 lg:justify-center lg:items-center lg:ml-3"

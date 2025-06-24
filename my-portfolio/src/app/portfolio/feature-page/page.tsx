@@ -35,6 +35,7 @@ const ProjectCard = ({
           alt={altText}
           width={350}
           height={603}
+          aria-label={`${title} Picture`}
           objectFit="cover"
           className="brightness-100 lg:w-[84rem] mx-auto rounded-xl outline outline-textnorm outline-2 transition-transform transform hover:scale-110"
           quality={90}
@@ -92,18 +93,18 @@ export default function ProjectPage() {
     {
       imageSrc:
         "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1739981788/image/ey3out3hspw2lgc0qeqm.png",
-      altText: "Profile picture of Ayomide Kappo",
+      altText: "Project image of Ayomide Kappo",
       title: "Career Growth Tools for Job Seekers",
       href: "https://www.workunlock.com/",
       description: `WorkUnlock is a platform that offers tools for job seekers to support their career growth and advancement. It features a user-friendly interface focused on interview preparation guides and LinkedIn optimization.`,
     },
     {
       imageSrc:
-        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1739981788/image/tjpnqlytt8dqsbjjzn1j.png",
-      altText: "Profile picture of Ayomide Kappo",
-      title: "Health-Care mobile application",
-      href: "https://health-care.ayomidekappo.me/",
-      description: `The HealthCare Management application is designed to provide patients, families, and healthcare providers with a seamless and user-friendly platform for tracking lab and test results, run test, and diagnosis.`,
+        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1750767757/Screenshot_525_1_optimized_oedyji.png",
+      altText: "Project image of Ayomide Kappo",
+      title: "Count-down Web Application",
+      href: "https://count-down.ayomidekappo.me/",
+      description: `The Countdown application is designed to provide users, teams, and event organizers with a seamless and user-friendly platform for tracking launch dates, setting countdowns, and receiving timely alerts.`,
     },
   ];
 

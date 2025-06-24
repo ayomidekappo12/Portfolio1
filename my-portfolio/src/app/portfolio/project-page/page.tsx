@@ -39,6 +39,8 @@ const ProjectCard = ({ videoSrc, title, description, href }: ProjectProps) => (
         src={videoSrc}
         controls
         preload="auto"
+        loading="lazy"
+        aria-label={`${title} Video demo`}
         className="w-full lg:w-10/12 h-auto rounded-lg"
       />
     </div>
@@ -87,11 +89,11 @@ export default function ProjectPage() {
     },
     {
       videoSrc:
-        "https://res.cloudinary.com/dxvf9uqwe/video/upload/v1739978528/videos/nivolekqunjt3wleo3m5.mp4",
-      title: "Health-Care web application",
+        "https://res.cloudinary.com/dxvf9uqwe/video/upload/v1750765760/countdown_-_Made_with_Clipchamp_1_k58e46.mp4",
+      title: "Count-down Web Application",
       description:
-        "The HealthCare Management application is designed to provide patients, families, and healthcare providers with a seamless and user-friendly platform for tracking lab and test results, run test, and diagnosis.",
-      href: "https://health-care.ayomidekappo.me/",
+        "The Countdown application is designed to provide users, teams, and event organizers with a seamless and user-friendly platform for tracking launch dates, setting countdowns, and receiving timely alerts.",
+      href: "https://count-down.ayomidekappo.me/",
     },
   ];
 

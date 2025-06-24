@@ -15,7 +15,7 @@ export default function AboutPage() {
             </h1>
             <Image
               src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1740140918/image/elkyeynh4j8esq3fuw7t.png"
-              alt="Profile picture of Zana Teeraboh"
+              alt="Profile picture of Ayomide Kappo"
               width={205}
               height={287}
               className="brightness-100 mt-5 flex lg:hidden"
@@ -24,7 +24,7 @@ export default function AboutPage() {
             />
             <Image
               src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1740222578/image/lnogpypos2st2v0owc0u.png"
-              alt="Profile picture of Zana Teeraboh"
+              alt="Profile picture of Ayomide Kappo"
               width={275}
               height={358}
               className="brightness-100 mt-5 hidden lg:flex"
