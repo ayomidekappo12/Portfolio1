@@ -100,6 +100,14 @@ export default function ProjectPage() {
     },
     {
       imageSrc:
+        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1761356416/Screenshot_596_jhxtpa.png",
+      altText: "Profile picture of Ayomide Kappo",
+      title: "Health-Care mobile application",
+      href: "https://health-care.ayomidekappo.me/",
+      description: `The HealthCare Management application is designed to provide patients, families, and healthcare providers with a seamless and user-friendly platform for tracking lab and test results, run test, and diagnosis.`,
+    },
+    {
+      imageSrc:
         "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1750767757/Screenshot_525_1_optimized_oedyji.png",
       altText: "Project image of Ayomide Kappo",
       title: "Count-down Web Application",

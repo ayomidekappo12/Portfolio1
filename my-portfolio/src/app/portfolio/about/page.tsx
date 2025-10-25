@@ -138,7 +138,7 @@ For me, the game's intense, dynamic environment has honed my ability to stay foc
 
 But beyond the cognitive benefits, I believe gaming has also made me more aware of my surroundings. The game's emphasis on situational awareness, strategy, and teamwork has translated to real-life benefits, such as improved observation skills, enhanced risk assessment, and more effective communication with others.
 
-So, the next time someone asks me why I spend time playing Call of Duty, I'll tell them it's not just about having fun – it's about sharpening my mind, staying focused, and developing skills that benefit me far beyond the gaming world`,
+So, the next time someone asks me why I spend time playing Call of Duty, I'll tell them it's not just about having fun - it's about sharpening my mind, staying focused, and developing skills that benefit me far beyond the gaming world`,
     },
   ];
 
