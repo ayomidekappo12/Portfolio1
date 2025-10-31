@@ -6,16 +6,6 @@ import Image from "next/legacy/image";
 const Footer = () => {
   const socialLinks = [
     {
-      href: "https://www.instagram.com/teerabohuix?igsh=cHM4Ym9xOTMzYjdt&utm_source=qr",
-      src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738995698/Frame_7_viltaj.svg",
-      alt: "Instagram logo",
-    },
-    {
-      href: "https://dribbble.com/Olufemik12",
-      src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738995698/Frame_8_l0gbpp.svg",
-      alt: "Dribbble logo",
-    },
-    {
       href: "https://x.com/ayomidekappo34",
       src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1739997758/image/mwylgkytcezmn7ruuyy9.svg",
       alt: "Twitter logo",

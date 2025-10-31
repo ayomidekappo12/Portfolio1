@@ -100,6 +100,22 @@ export default function ProjectPage() {
     },
     {
       imageSrc:
+        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1761919037/Screenshot_605_j2pdvq.png",
+      altText: "Project image of Ayomide Kappo",
+      title: "Platform For Cleaning Services",
+      href: "https://cannyscleaning.com/",
+      description: `Canny's Cleaning Services provides professional residential and commercial cleaning across the UK — including home cleaning, office cleaning, and post-renovation cleanup — delivering reliable high-quality results`,
+    },
+    {
+      imageSrc:
+        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1761919037/Screenshot_606_ao389v.png",
+      altText: "Project image of Ayomide Kappo",
+      title: "A Platform Made For Lenders",
+      href: "https://ayomide-kappo-lendsqr-fe-test.netlify.app/",
+      description: `Lendsqr provides a comprehensive platform for digital lending management — enabling organizations to manage users, assess credit decisions, process loans, and track financial transactions efficiently.`,
+    },
+    {
+      imageSrc:
         "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1761356416/Screenshot_596_jhxtpa.png",
       altText: "Profile picture of Ayomide Kappo",
       title: "Health-Care mobile application",

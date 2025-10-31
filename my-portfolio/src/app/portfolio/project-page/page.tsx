@@ -88,6 +88,21 @@ export default function ProjectPage() {
     },
     {
       videoSrc:
+        "https://res.cloudinary.com/dxvf9uqwe/video/upload/v1761917939/Untitled_video_-_Made_with_Clipchamp_3_jhnaer.mp4",
+      title: "Platform That Provides Cleaning Services",
+      description: `Canny's Cleaning Services is a professional cleaning website built with Next.js and Tailwind CSS, showcasing a trusted UK-based company with a 5★ reputation. It includes advanced SEO, Google Analytics, and sitemap automation for fast indexing and a smooth, responsive user experience`,
+      href: "https://cannyscleaning.com/",
+    },
+    {
+      videoSrc:
+        "https://res.cloudinary.com/dxvf9uqwe/video/upload/v1761356777/Untitled_video_-_Made_with_Clipchamp_tlp50y.mp4",
+      title: "A Platform Made For Lenders To Manage Loans",
+      description:
+        "Lendsqr is a responsive web application built with Next.js and Tailwind CSS that simulates a financial dashboard for managing users, loans, and transactions. It features dynamic data handling, authentication control, and a clean, intuitive UI optimized for performance and scalability.",
+      href: "https://ayomide-kappo-lendsqr-fe-test.netlify.app/",
+    },
+    {
+      videoSrc:
         "https://res.cloudinary.com/dxvf9uqwe/video/upload/v1761342185/Untitled_video_-_Made_with_Clipchamp_2_lhv54k.mp4",
       title: "Health-Care web application",
       description:
