@@ -107,7 +107,7 @@ export default function ProjectPage() {
       title: "Health-Care web application",
       description:
         "The HealthCare Management application is designed to provide patients, families, and healthcare providers with a seamless and user-friendly platform for tracking lab and test results, run test, and diagnosis.",
-      href: "https://health-care.ayomidekappo.me",
+      href: "https://exquisite-empanada-d0cbc0.netlify.app/",
     },
     {
       videoSrc:
@@ -115,7 +115,7 @@ export default function ProjectPage() {
       title: "Count-down Web Application",
       description:
         "The Countdown application is designed to provide users, teams, and event organizers with a seamless and user-friendly platform for tracking launch dates, setting countdowns, and receiving timely alerts.",
-      href: "https://count-down.ayomidekappo.me/",
+      href: "https://calm-stardust-c7e7a9.netlify.app/",
     },
   ];
 

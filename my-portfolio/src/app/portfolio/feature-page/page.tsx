@@ -119,7 +119,7 @@ export default function ProjectPage() {
         "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1761356416/Screenshot_596_jhxtpa.png",
       altText: "Profile picture of Ayomide Kappo",
       title: "Health-Care mobile application",
-      href: "https://health-care.ayomidekappo.me/",
+      href: "https://exquisite-empanada-d0cbc0.netlify.app/",
       description: `The HealthCare Management application is designed to provide patients, families, and healthcare providers with a seamless and user-friendly platform for tracking lab and test results, run test, and diagnosis.`,
     },
     {
@@ -127,7 +127,7 @@ export default function ProjectPage() {
         "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1750767757/Screenshot_525_1_optimized_oedyji.png",
       altText: "Project image of Ayomide Kappo",
       title: "Count-down Web Application",
-      href: "https://count-down.ayomidekappo.me/",
+      href: "https://calm-stardust-c7e7a9.netlify.app/",
       description: `The Countdown application is designed to provide users, teams, and event organizers with a seamless and user-friendly platform for tracking launch dates, setting countdowns, and receiving timely alerts.`,
     },
   ];
