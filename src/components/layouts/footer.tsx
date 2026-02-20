@@ -6,6 +6,7 @@ import Image from "next/legacy/image";
 const Footer = () => {
   const socialLinks = [
     {
+<<<<<<< HEAD:my-portfolio/src/components/layouts/footer.tsx
       href: "https://www.instagram.com/latoi09/",
       src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738995698/Frame_7_viltaj.svg",
       alt: "Instagram logo",
@@ -19,6 +20,11 @@ const Footer = () => {
       href: "https://www.behance.net/martinsarowolo",
       src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1738995698/Frame_9_ppkj88.svg",
       alt: "Behance logo",
+=======
+      href: "https://x.com/ayomidekappo34",
+      src: "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1739997758/image/mwylgkytcezmn7ruuyy9.svg",
+      alt: "Twitter logo",
+>>>>>>> 6b39a8ec0527188735ae334b32329aadf8813a5a:src/components/layouts/footer.tsx
     },
     {
       href: "https://www.linkedin.com/in/martins-arowolo-79a72b133/",

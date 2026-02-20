@@ -129,7 +129,17 @@ export default function AboutPage() {
       altText: "Game picture of Martins Arowolo",
       title: "GAME",
       heading: "CALL ON DUTY",
+<<<<<<< HEAD:my-portfolio/src/app/portfolio/about/page.tsx
       description: `As an avid gamer, I've often found myself defending my love for Call of Duty to those who view gaming as a mere distraction. But the truth is, this fast-paced, action-packed game has been a valuable training ground for my brain. Research has shown that games like Call of Duty can improve cognitive skills such as multitasking, decision-making, and problem-solving. For me, the game's intense, dynamic environment has honed my ability to stay focused under pressure, think on my feet, and adapt quickly to new situations. It's also heightened my spatial awareness, allowing me to better navigate complex environments and track multiple objects simultaneously. But beyond the cognitive benefits, I believe gaming has also made me more aware of my surroundings. The game's emphasis on situational awareness, strategy, and teamwork has translated to real-life benefits, such as improved observation skills, enhanced risk assessment, and more effective communication with others. So, the next time someone asks me why I spend time playing Call of Duty, I'll tell them it's not just about having fun – it's about sharpening my mind, staying focused, and developing skills that benefit me far beyond the gaming world`,
+=======
+      description: `As an avid gamer, I've often found myself defending my love for Call of Duty to those who view gaming as a mere distraction. But the truth is, this fast-paced, action-packed game has been a valuable training ground for my brain. Research has shown that games like Call of Duty can improve cognitive skills such as multitasking, decision-making, and problem-solving.
+
+For me, the game's intense, dynamic environment has honed my ability to stay focused under pressure, think on my feet, and adapt quickly to new situations. It's also heightened my spatial awareness, allowing me to better navigate complex environments and track multiple objects simultaneously.
+
+But beyond the cognitive benefits, I believe gaming has also made me more aware of my surroundings. The game's emphasis on situational awareness, strategy, and teamwork has translated to real-life benefits, such as improved observation skills, enhanced risk assessment, and more effective communication with others.
+
+So, the next time someone asks me why I spend time playing Call of Duty, I'll tell them it's not just about having fun - it's about sharpening my mind, staying focused, and developing skills that benefit me far beyond the gaming world`,
+>>>>>>> 6b39a8ec0527188735ae334b32329aadf8813a5a:src/app/portfolio/about/page.tsx
     },
   ];
 
@@ -143,8 +153,13 @@ export default function AboutPage() {
                 ABOUT
               </h1>
               <Image
+<<<<<<< HEAD:my-portfolio/src/app/portfolio/about/page.tsx
                 src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1741514645/image/bjpmddt504qnrmgcozvp.svg"
                 alt="Profile picture of Martins Arowolo"
+=======
+                src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1740140918/image/elkyeynh4j8esq3fuw7t.png"
+                alt="Profile picture of Ayomide Kappo"
+>>>>>>> 6b39a8ec0527188735ae334b32329aadf8813a5a:src/app/portfolio/about/page.tsx
                 width={205}
                 height={287}
                 className="brightness-100 mt-5 flex lg:hidden"
@@ -152,8 +167,13 @@ export default function AboutPage() {
                 priority
               />
               <Image
+<<<<<<< HEAD:my-portfolio/src/app/portfolio/about/page.tsx
                 src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1741514645/image/bjpmddt504qnrmgcozvp.svg"
                 alt="Profile picture of Martins Arowolo"
+=======
+                src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1740222578/image/lnogpypos2st2v0owc0u.png"
+                alt="Profile picture of Ayomide Kappo"
+>>>>>>> 6b39a8ec0527188735ae334b32329aadf8813a5a:src/app/portfolio/about/page.tsx
                 width={275}
                 height={350}
                 className="brightness-100 hidden lg:flex lg:mt-8 lg:justify-center lg:items-center lg:ml-3"

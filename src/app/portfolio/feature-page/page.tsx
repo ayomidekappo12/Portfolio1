@@ -33,9 +33,17 @@ const ProjectCard = ({
         <Image
           src={imageSrc}
           alt={altText}
+<<<<<<< HEAD:my-portfolio/src/app/portfolio/feature-page/page.tsx
           layout="fill"
           objectFit="cover"
           className="brightness-100 rounded-lg"
+=======
+          width={350}
+          height={603}
+          aria-label={`${title} Picture`}
+          style={{ objectFit: "cover" }}
+          className="brightness-100 lg:w-[84rem] mx-auto rounded-xl outline outline-textnorm outline-2 transition-transform transform hover:scale-110"
+>>>>>>> 6b39a8ec0527188735ae334b32329aadf8813a5a:src/app/portfolio/feature-page/page.tsx
           quality={90}
           priority
         />
@@ -90,6 +98,7 @@ export default function ProjectPage() {
   const projects = [
     {
       imageSrc:
+<<<<<<< HEAD:my-portfolio/src/app/portfolio/feature-page/page.tsx
         "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1742671059/image/ihva9xpqr2pj8nc7u9qd.svg",
       altText: "Profile picture of Martins Arowolo",
       title: "PedMonie Case application",
@@ -119,6 +128,45 @@ export default function ProjectPage() {
       title: "Fintech Mobile application",
       href: "https://www.behance.net/martinsarowolo",
       description: `Crafting seamless experience and designing products that scale. A software engineering student by day, a creative thinker and innovative designer by night.`,
+=======
+        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1739981788/image/ey3out3hspw2lgc0qeqm.png",
+      altText: "Project image of Ayomide Kappo",
+      title: "Career Growth Tools for Job Seekers",
+      href: "https://www.workunlock.com/",
+      description: `WorkUnlock is a platform that offers tools for job seekers to support their career growth and advancement. It features a user-friendly interface focused on interview preparation guides and LinkedIn optimization.`,
+    },
+    {
+      imageSrc:
+        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1761919037/Screenshot_605_j2pdvq.png",
+      altText: "Project image of Ayomide Kappo",
+      title: "Platform For Cleaning Services",
+      href: "https://cannyscleaning.com/",
+      description: `Canny's Cleaning Services provides professional residential and commercial cleaning across the UK — including home cleaning, office cleaning, and post-renovation cleanup — delivering reliable high-quality results`,
+    },
+    {
+      imageSrc:
+        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1761919037/Screenshot_606_ao389v.png",
+      altText: "Project image of Ayomide Kappo",
+      title: "A Platform Made For Lenders",
+      href: "https://ayomide-kappo-lendsqr-fe-test.netlify.app/",
+      description: `Lendsqr provides a comprehensive platform for digital lending management — enabling organizations to manage users, assess credit decisions, process loans, and track financial transactions efficiently.`,
+    },
+    {
+      imageSrc:
+        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1761356416/Screenshot_596_jhxtpa.png",
+      altText: "Profile picture of Ayomide Kappo",
+      title: "Health-Care mobile application",
+      href: "https://exquisite-empanada-d0cbc0.netlify.app/",
+      description: `The HealthCare Management application is designed to provide patients, families, and healthcare providers with a seamless and user-friendly platform for tracking lab and test results, run test, and diagnosis.`,
+>>>>>>> 6b39a8ec0527188735ae334b32329aadf8813a5a:src/app/portfolio/feature-page/page.tsx
+    },
+    {
+      imageSrc:
+        "https://res.cloudinary.com/dxvf9uqwe/image/upload/v1750767757/Screenshot_525_1_optimized_oedyji.png",
+      altText: "Project image of Ayomide Kappo",
+      title: "Count-down Web Application",
+      href: "https://calm-stardust-c7e7a9.netlify.app/",
+      description: `The Countdown application is designed to provide users, teams, and event organizers with a seamless and user-friendly platform for tracking launch dates, setting countdowns, and receiving timely alerts.`,
     },
   ];
 

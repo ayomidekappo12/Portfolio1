@@ -14,8 +14,13 @@ export default function AboutPage() {
               ABOUT
             </h1>
             <Image
+<<<<<<< HEAD:my-portfolio/src/app/portfolio/about-page/page.tsx
               src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1741514645/image/bjpmddt504qnrmgcozvp.svg"
               alt="Profile picture of Zana Teeraboh"
+=======
+              src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1740140918/image/elkyeynh4j8esq3fuw7t.png"
+              alt="Profile picture of Ayomide Kappo"
+>>>>>>> 6b39a8ec0527188735ae334b32329aadf8813a5a:src/app/portfolio/about-page/page.tsx
               width={205}
               height={287}
               className="brightness-100 mt-5 flex lg:hidden"
@@ -23,8 +28,13 @@ export default function AboutPage() {
               priority
             />
             <Image
+<<<<<<< HEAD:my-portfolio/src/app/portfolio/about-page/page.tsx
               src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1741514645/image/bjpmddt504qnrmgcozvp.svg"
               alt="Profile picture of Zana Teeraboh"
+=======
+              src="https://res.cloudinary.com/dxvf9uqwe/image/upload/v1740222578/image/lnogpypos2st2v0owc0u.png"
+              alt="Profile picture of Ayomide Kappo"
+>>>>>>> 6b39a8ec0527188735ae334b32329aadf8813a5a:src/app/portfolio/about-page/page.tsx
               width={275}
               height={358}
               className="brightness-100 mt-5 hidden lg:flex bg-neutral-50"
